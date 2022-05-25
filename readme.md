@@ -2,7 +2,7 @@
 
 - 🐧 Linux Cultist 
 - 🌐 CyberSec Fren 
-- 🧰 Dev-ing in Shell & Python 
+- 🧰 Dev-ing in Python & Shell 
 - ⚙️ Child of the Machine God 
 - 🐕 Dog Connoisseur
 
