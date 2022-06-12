@@ -8,4 +8,9 @@
 
 ## Common Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaarg&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaarg&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Stats:
+
+<img align="left" alt="GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=vaarg&theme=jolly&show_icons=true&hide_border=true" />
+
