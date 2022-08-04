@@ -18,4 +18,4 @@
 <br>
 
 ## Current Project(s):
-- [Cariosus](https://github.com/vaarg/Cariosus): A Collaborative Project of C++ and Rust Reverse Engineering & Vulnerable Application Challenges
+- 💽 [Cariosus](https://github.com/vaarg/Cariosus): A Collaborative Project of C++ and Rust Reverse Engineering & Vulnerable Application Challenges
