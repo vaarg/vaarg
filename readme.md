@@ -1,13 +1,13 @@
 ```text
                      ᚹ̴̛͈
           ╲           ┃           ╱
-      ƛ̸̨ ┄┄┄┄┄┄┄┄╾╋⟁̷╋╼┄┄┄┄┄┄┄┄ ∰̶
+          ƛ̸̨ ┄┄┄┄┄┄┄┄╾╋⟁̷╋╼┄┄┄┄┄┄┄┄ ∰̶
           ╱           ┊           ╲
                       ᛉ̷
                       ╎
 $ cc -c vaarg.c       ╎
-vaarg.c:7:15: error: unknown type name 'VAARG'
-  7 | va_arg(ap, VAARG);
+vaarg.c:7:15: error: unknown type name 'vaarg'
+  7 | va_arg(ap, vaarg);
     |            ^~~~~
     note: did you mean 'va_arg'?
     note: n̷a̵m̶e̸ ≠ t̸y̵p̷e̶
